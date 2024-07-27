@@ -2,7 +2,7 @@
 
 This repository provides a set of Python scripts for analyzing and visualizing protein-protein interactions using data from the STRING database API. The scripts offer customizable workflows for researchers to explore protein interactions and perform enrichment analysis.
 
-**Note**
+**Note:**
 You can download and visualize `network.html` file to view the interactive network using a browser.
 
 ## Main functionalities:
