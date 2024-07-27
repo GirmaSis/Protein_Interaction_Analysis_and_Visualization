@@ -1,9 +1,11 @@
-# Protein Interaction Analysis and Visualization
+# Protein interaction analysis and visualization
 
-This repository provides a set of Python scripts for analyzing and visualizing protein-protein interactions using data from the STRING database API. 
-The scripts offer customizable and automated workflows for researchers to explore protein interactions and perform enrichment analysis.
+This repository provides a set of Python scripts for analyzing and visualizing protein-protein interactions using data from the STRING database API. The scripts offer customizable workflows for researchers to explore protein interactions and perform enrichment analysis.
 
-## Main functionalities
+**Note**
+You can download and visualize `network.html` file to view the interactive network using a browser.
+
+## Main functionalities:
 
 ### 1. Network Analysis and Visualization
 
@@ -19,6 +21,7 @@ The scripts offer customizable and automated workflows for researchers to explor
 ## How to Run
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/GirmaSis/Protein_Interaction_Analysis_and_Visualization.git
+   cd Protein_Interaction_Analysis_and_Visualization
    pip install requests pandas networkx matplotlib pyvis gprofiler-official
+   ```
